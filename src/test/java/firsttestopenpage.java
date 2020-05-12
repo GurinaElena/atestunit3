@@ -13,8 +13,6 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-
-
 public class firsttestopenpage {
 
     private WebDriver driver;
@@ -35,7 +33,6 @@ public class firsttestopenpage {
         driver.quit();
         driver = null;
     }
-
 
     @Test
     void shouldTestSomething() {
