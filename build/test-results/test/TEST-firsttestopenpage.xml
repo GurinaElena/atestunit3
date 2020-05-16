@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="firsttestopenpage" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-16T19:18:12" hostname="DESKTOP-R6ELH9O" time="12.38">
+<testsuite name="firsttestopenpage" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-16T19:38:49" hostname="DESKTOP-R6ELH9O" time="12.372">
   <properties/>
-  <testcase name="shouldTest()" classname="firsttestopenpage" time="12.38"/>
+  <testcase name="shouldTest()" classname="firsttestopenpage" time="12.372"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 48443
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 32261
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-мая 16, 2020 10:18:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+мая 16, 2020 10:38:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 21271
+Starting ChromeDriver 81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}) on port 35849
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-мая 16, 2020 10:18:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+мая 16, 2020 10:38:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1589656702.192][SEVERE]: Timed out receiving message from renderer: 0.100
-[1589656702.366][SEVERE]: Timed out receiving message from renderer: 0.100
+[1589657939.102][SEVERE]: Timed out receiving message from renderer: 0.100
+[1589657939.250][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
 </testsuite>
